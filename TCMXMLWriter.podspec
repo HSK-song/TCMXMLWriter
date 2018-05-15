@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
   s.summary          = 'elegant cocoa XML marshalling with a small memory footprint'
 
   s.description      = <<-DESC
-      elegant cocoa XML marshalling with a small memory footprint
+      elegant cocoa XML marshalling with a small memory footprint description
                        DESC
 
   s.homepage         = 'https://github.com/HSK-song/TCMXMLWriter.git'
@@ -22,5 +22,5 @@ Pod::Spec.new do |s|
 
   s.ios.deployment_target = '8.0'
   
-  s.source_files = 'TCMXML/TCMXMLWriter.h,m'
+  s.source_files = 'TCMXML/TCMXMLWriter.{h,m}'
 end

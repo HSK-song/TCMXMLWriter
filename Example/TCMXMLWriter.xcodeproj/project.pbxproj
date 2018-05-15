@@ -37,7 +37,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		1203AE8E48116BF7492D15D4 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		18EEACC7327C578C95309EA5 /* TCMXMLWriter.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = TCMXMLWriter.podspec; path = ../TCMXMLWriter.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		4FEC81FE622D08A6F38E4B8D /* Pods-TCMXMLWriter_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TCMXMLWriter_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-TCMXMLWriter_Example/Pods-TCMXMLWriter_Example.release.xcconfig"; sourceTree = "<group>"; };
 		6003F58A195388D20070C39A /* TCMXMLWriter_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TCMXMLWriter_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -190,7 +189,6 @@
 			isa = PBXGroup;
 			children = (
 				18EEACC7327C578C95309EA5 /* TCMXMLWriter.podspec */,
-				1203AE8E48116BF7492D15D4 /* README.md */,
 				E3E76F7F189F3C235E6A859A /* LICENSE */,
 			);
 			name = "Podspec Metadata";

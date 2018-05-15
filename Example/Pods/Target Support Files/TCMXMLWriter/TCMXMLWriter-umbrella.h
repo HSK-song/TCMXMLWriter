@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "TCMXMLWriter.h"
 
 FOUNDATION_EXPORT double TCMXMLWriterVersionNumber;
 FOUNDATION_EXPORT const unsigned char TCMXMLWriterVersionString[];
