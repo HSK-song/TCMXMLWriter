@@ -1,0 +1,6 @@
+framework module TCMXMLWriter {
+  umbrella header "TCMXMLWriter-umbrella.h"
+
+  export *
+  module * { export * }
+}

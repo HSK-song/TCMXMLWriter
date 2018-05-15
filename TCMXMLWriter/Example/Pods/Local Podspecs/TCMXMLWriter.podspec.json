@@ -1,0 +1,22 @@
+{
+  "name": "TCMXMLWriter",
+  "version": "0.1.0",
+  "summary": "elegant cocoa XML marshalling with a small memory footprint",
+  "description": "elegant cocoa XML marshalling with a small memory footprint",
+  "homepage": "https://github.com/HSK-song/TCMXMLWriter.git",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "songzhou": "songzhou_hsk@163.com"
+  },
+  "source": {
+    "git": "https://github.com/HSK-song/TCMXMLWriter.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TCMXML/TCMXMLWriter.h,m"
+}

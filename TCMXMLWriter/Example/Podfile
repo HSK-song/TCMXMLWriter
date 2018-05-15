@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'TCMXMLWriter_Example' do
+  pod 'TCMXMLWriter', :path => '../'
+
+  target 'TCMXMLWriter_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
